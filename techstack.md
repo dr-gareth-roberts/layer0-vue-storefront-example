@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/layer0-vue-storefront-example is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -30,11 +31,13 @@ dr-gareth-roberts/layer0-vue-storefront-example is built on the following main s
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/layer0-vue-storefront-example is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -63,14 +66,15 @@ dr-gareth-roberts/layer0-vue-storefront-example is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dr-gareth-roberts/layer0-vue-storefront-example](https://github.com/dr-gareth-roberts/layer0-vue-storefront-example)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|128<br/>Tools used|11/10/23 <br/>Report generated|
+|130<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -355,9 +359,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (97)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (99)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (97)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (99)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -409,6 +413,7 @@ Full tech stack [here](/techstack.md)
 |[helmet](https://www.npmjs.com/helmet)|v3.23.3|10/09/21|root |MIT|N/A|
 |[html-minifier](https://www.npmjs.com/html-minifier)|v3.5.21|10/09/21|root |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|10/09/21|root |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v2.7.0|10/09/21|root |MIT|N/A|
 |[inquirer](https://www.npmjs.com/inquirer)|v3.3.0|10/09/21|root |MIT|N/A|
 |[intl](https://www.npmjs.com/intl)|v1.2.5|10/09/21|root |MIT|N/A|
 |[isomorphic-fetch](https://www.npmjs.com/isomorphic-fetch)|v2.2.1|10/09/21|root |MIT|N/A|
@@ -416,6 +421,7 @@ Full tech stack [here](/techstack.md)
 |[jest-serializer-vue](https://www.npmjs.com/jest-serializer-vue)|v2.0.2|10/09/21|root |MIT|N/A|
 |[js-sha3](https://www.npmjs.com/js-sha3)|v0.8.0|10/09/21|root |MIT|N/A|
 |[jsonfile](https://www.npmjs.com/jsonfile)|v2.4.0|10/09/21|root |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.2.1|10/09/21|root |MIT|N/A|
 |[listr](https://www.npmjs.com/listr)|v0.12.0|10/09/21|root |MIT|N/A|
 |[localforage](https://www.npmjs.com/localforage)|v1.9.0|10/09/21|root |Apache-2.0|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|10/09/21|root |MIT|N/A|
@@ -462,4 +468,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
